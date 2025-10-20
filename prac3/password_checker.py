@@ -8,8 +8,8 @@ CP1404/CP5632 - Practical
 Password checker code
 """
 
-MIN_LENGTH = 2
-MAX_LENGTH = 12
+MIN_LENGTH = 4
+MAX_LENGTH = 13
 IS_SPECIAL_CHARACTER_REQUIRED = True
 SPECIAL_CHARACTERS = "!@#$%^&*()_-=+`~,./'[]<>?{}|\\"
 

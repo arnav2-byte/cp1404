@@ -18,8 +18,8 @@ except ZeroDivisionError:
 print("Finished.")
 """
 Questions
-1. value error will occur when we enter a string or float.
-2. Zero division error occur when we enter the denominator 0 
+1.  when we enter a string or float.
+2. only if we enter the denominator 0 
 3. yeah, we could change the zero division error by applying error checking.
 below is the code after error checking.
 """
